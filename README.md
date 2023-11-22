@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @dalmana, 👀 I’m interested in machine leaning.
+- 🌱 I’m currently learning AL, Python.
